@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -11,5 +11,5 @@ title: Home
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
--blah blah blah
--[csu](https://www.colostate.edu/)
+- blah blah blah
+- [csu](https://www.colostate.edu/)
